@@ -1,0 +1,37 @@
+<config>
+    <file
+            source_path="C:\"
+            destination_path="D:\test"
+            file_name="sonnet.txt"
+    />
+    <file
+            source_path="/var/log"
+            destination_path="/etc"
+            file_name="server.log"
+    />
+    <file
+            source_path="C:\test"
+            destination_path="D:\test"
+            file_name="1.txt"
+    />
+    <file
+            source_path="C:\test"
+            destination_path="D:\test"
+            file_name="2.txt"
+    />
+    <file
+            source_path="C:\test"
+            destination_path="D:\test"
+            file_name="3.txt"
+    />
+    <file
+            source_path="C:\test"
+            destination_path="D:\test"
+            file_name="4.txt"
+    />
+    <file
+            source_path="C:\test"
+            destination_path="D:\test"
+            file_name="5.txt"
+    />
+</config>

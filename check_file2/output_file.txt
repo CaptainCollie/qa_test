@@ -1,0 +1,4 @@
+file_01.txt YES
+file_02.txt FAIL
+file_03.txt YES
+file_04.txt NOT FOUND

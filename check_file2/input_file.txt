@@ -1,0 +1,4 @@
+file_01.txt md5 db89bb5ceab87f9c0fcc2ab36c189c2c
+file_02.txt sha1 6dc2d05c8374293fe20bc4c22c236e2e
+file_03.txt sha256 f0e0d426bb21726f33cb318c443bf9e45659e463587c5a52f5ecaaf216fdd4e4
+file_04.txt sha1 da39a3ee5e6b4b0d3255bfef95601890afd80709
